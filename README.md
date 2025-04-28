@@ -1,6 +1,6 @@
 # Hello, I'm Sachin 👋
 
-Welcome to my GitHub profile! I'm a **Network and System Engineer** with a passion for **network security** and **automation**. Currently, I work as a **Network Administrator** at **Ambition Guru Company**. I love building solutions in **Python**, **Networking**, and **Cybersecurity**.
+Welcome to my GitHub profile! I'm a **Network and System Engineer** with a passion for **network security** and **automation**. Currently, I am working as a **Network Administrator** at **Ambition Guru Company**. I love building solutions in **Python**, **Networking**, and **Cybersecurity**.
 
 ## 🛠️ Skills & Technologies
 
