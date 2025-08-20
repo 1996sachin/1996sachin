@@ -1,9 +1,11 @@
 # 👋 Hello, I'm Sachin Singh  
 
-🚀 **Network & System Engineer | DevOps Enthusiast | Cybersecurity Learner**  
+🚀 **Network & System Engineer | Junior DevOps Engineer | Cybersecurity Learner**  
 
 Welcome to my GitHub profile!  
 I’m passionate about **Network Security, Automation, and DevOps**. Currently, I work as a **Network Administrator at Ambition Guru Company**, ensuring reliable and secure infrastructure operations.  
+
+Recently, I’ve been working as a **Junior DevOps Engineer** — deploying projects with **Docker, Jenkins, and GitHub Webhooks** (Node.js & Laravel) and configuring an **Asterisk Server** on Ubuntu for local calling.  
 
 ---
 
@@ -24,14 +26,15 @@ I’m passionate about **Network Security, Automation, and DevOps**. Currently, 
 - **Web Technologies** → PHP, HTML, CSS  
 - **Databases** → Oracle DBMS, MySQL  
 - **System Administration & Security Tools**  
+- **DevOps Practices** → CI/CD, Infrastructure Automation  
 
 ---
 
 ## 📌 What I Do  
 
 - 🔐 **Network Security Projects** → VLANs, VPNs, Firewalls  
-- ⚙️ **System Automation** → Bash/Python scripting  
-- ☁️ **DevOps Practices** → CI/CD with Jenkins, Docker & GitHub Webhooks  
+- ⚙️ **System Automation** → Bash & Python scripting  
+- ☁️ **DevOps** → CI/CD with Jenkins, Docker & GitHub Webhooks  
 - 📞 **Telephony** → Configured **Asterisk Server** on Ubuntu  
 - 🌐 **Web Projects** → Laravel & Node.js Deployments  
 
