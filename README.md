@@ -5,7 +5,7 @@
 Welcome to my GitHub profile!  
 I’m passionate about **Network Security, Automation, and DevOps**. Currently, I work as a **Network Administrator and Devops at Ambition Guru Company**, ensuring reliable and secure infrastructure operations.  
 
-Recently, I’ve been working as a **Junior DevOps Engineer** — deploying projects with **Docker, Jenkins, and GitHub Webhooks** (Node.js & Laravel) and configuring an **Asterisk Server** on Ubuntu for local calling.  
+Recently, I’ve been working as a **Junior DevOps Engineer** deploying projects with **Docker, Jenkins, and GitHub Webhooks** (Node.js & Laravel) and configuring an **Asterisk Server** on Ubuntu for local calling.  
 
 ---
 
