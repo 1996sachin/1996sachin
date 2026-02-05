@@ -23,10 +23,10 @@ Recently, I’ve been working as a **Junior DevOps Engineer** deploying projects
 ![CyberSecurity](https://img.shields.io/badge/Cyber_Security-EE0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 💡 Also experienced in:  
-- **Web Technologies** → PHP, HTML, CSS  
-- **Databases** → Oracle DBMS, MySQL  
+- **Web Technologies** → PHP LARAVEL FRAMEWORK, HTML, CSS, NODE.JS, PYTHON, DJANGO FRAMEWORK  
+- **Databases** → Oracle DBMS, MySQL, Postgres, Mariadb, MongoDB  
 - **System Administration & Security Tools**  
-- **DevOps Practices** → CI/CD, Infrastructure Automation  
+- **DevOps Practices** → GITHUB ACTION, GITLAB CI/CD, Bash Scripting, Apache Kafka, Docker, Docker Swarm, Jenkins, Nginx, Infrastructure Automation  
 
 ---
 
@@ -36,7 +36,7 @@ Recently, I’ve been working as a **Junior DevOps Engineer** deploying projects
 - ⚙️ **System Automation** → Bash & Python scripting  
 - ☁️ **DevOps** → CI/CD with Jenkins, Docker & GitHub Webhooks  
 - 📞 **Telephony** → Configured **Asterisk Server** on Ubuntu  
-- 🌐 **Web Projects** → Laravel & Node.js Deployments  
+- 🌐 **Web Projects** → Laravel PHP, Python Django & Node.js Deployments  
 
 ---
 
